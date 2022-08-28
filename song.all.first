@@ -1,0 +1,13 @@
+
+[1mFrom:[0m /home/moringa/phase-3-orms-mapping-database-records-to-ruby-objects/bin/run:15 :
+
+    [1;34m10[0m:   Song.create(name: "99 Problems", album: "The Black Album")
+    [1;34m11[0m: end
+    [1;34m12[0m: 
+    [1;34m13[0m: reset_database
+    [1;34m14[0m: 
+ => [1;34m15[0m: binding.pry
+    [1;34m16[0m: "pls"
+    [1;34m17[0m: 
+    [1;34m18[0m: 
+
